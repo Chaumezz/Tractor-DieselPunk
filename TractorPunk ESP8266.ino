@@ -1,4 +1,4 @@
-/* JoyStick WiFi escrito por Dani No www.esploradores.com
+/* JoyStick WiFi sacado de www.esploradores.com
 
 Este sofware está escrito bajo la licencia CREATIVE COMMONS con Reconocimiento - CompartirIgual
 (CC BY-SA) https://creativecommons.org/
